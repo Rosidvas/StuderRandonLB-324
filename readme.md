@@ -30,3 +30,4 @@ Erklären Sie hier, wie Sie das Passwort aus Ihrer lokalen `.env` auf Azure übe
 studer-diary.azurewebsites.net 
 
 ![image](https://github.com/Rosidvas/StuderRandonLB-324/assets/89085444/457d60df-0fd4-4048-a98b-bd8aca3b2316)
+![image](https://github.com/Rosidvas/StuderRandonLB-324/assets/89085444/b5541fe0-b41c-4d1c-92fd-18dda35d1651)
