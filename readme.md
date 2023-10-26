@@ -1,6 +1,11 @@
 # LB 324
 
 ## Aufgabe 2
+# Installation Pre-commit
+1. Installieren Sie die pre-commit python Pakete mit `pip install pre-commit`
+```
+pre-commit
+```
 Erklären Sie hier, wie man `pre-commit` installiert.
 
 ## Aufgabe 4
