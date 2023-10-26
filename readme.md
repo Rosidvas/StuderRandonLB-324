@@ -6,7 +6,7 @@
 ```
 pip install pre-commit
 ```
-1.5 Um zu überprüfen, ob es installiert ist, gehen Sie in Ihr Terminal und verwenden Sie
+1.5 Um zu überprüfen, ob es installiert ist, gehen Sie in Ihr Terminal und verwenden Sie `pre-commit --version`
 ```
 pre-commit --version
 ```
