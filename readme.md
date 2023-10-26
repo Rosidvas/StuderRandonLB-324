@@ -31,3 +31,6 @@ studer-diary.azurewebsites.net
 
 ![image](https://github.com/Rosidvas/StuderRandonLB-324/assets/89085444/457d60df-0fd4-4048-a98b-bd8aca3b2316)
 ![image](https://github.com/Rosidvas/StuderRandonLB-324/assets/89085444/b5541fe0-b41c-4d1c-92fd-18dda35d1651)
+![image](https://github.com/Rosidvas/StuderRandonLB-324/assets/89085444/e00db644-3b31-4431-bb33-269e989d1756)
+![image](https://github.com/Rosidvas/StuderRandonLB-324/assets/89085444/3d07f7d0-a1ea-4403-b62d-46cce47005a5)
+
