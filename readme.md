@@ -19,6 +19,9 @@ pre-commit install
 ```
 pre-commit run --all-files
 ```
+## Notice!
+Wenn pre-commit installiert ist, aber der Modul nicht gefunden werden kann:
+Öffnen die Umgebungsvariable und fügen Sie den Pfad hinzu, in dem pre-commit installiert ist
 
 ## Aufgabe 4
 Erklären Sie hier, wie Sie das Passwort aus Ihrer lokalen `.env` auf Azure übertragen.
