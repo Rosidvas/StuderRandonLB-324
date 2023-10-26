@@ -33,8 +33,10 @@ https://studer-diary.azurewebsites.net/
 
 ![image](https://github.com/Rosidvas/StuderRandonLB-324/assets/89085444/5ea77d9c-96b5-432f-a3d3-f0cc96af4551)
 
-
+Nehmen Sie eine neue Anwendungseinstellung vor und legen Sie das Passwort fest.
 ![image](https://github.com/Rosidvas/StuderRandonLB-324/assets/89085444/b5541fe0-b41c-4d1c-92fd-18dda35d1651)
 ![image](https://github.com/Rosidvas/StuderRandonLB-324/assets/89085444/e00db644-3b31-4431-bb33-269e989d1756)
+
+Sobald Sie auf die Website geladen sind, können Sie auf das Tagebuch zugreifen
 ![image](https://github.com/Rosidvas/StuderRandonLB-324/assets/89085444/3d07f7d0-a1ea-4403-b62d-46cce47005a5)
 
