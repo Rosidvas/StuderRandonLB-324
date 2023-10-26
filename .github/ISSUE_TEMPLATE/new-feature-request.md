@@ -10,14 +10,20 @@ assignees: ''
 |     Name      |       Date        |          Request          |
 | :------------: | :---------------: | :--------------------: |
 | ... | ... | ... |
-#
+
+# Zielsystem
 ### diese neue Funktion wird sich auf das **betroffene Zielsystem** beziehen. 
-##Priorität
-### 
+# Priorität
+### ...
 |     Muss    |       Soll        |          wird     |
 | :------------: | :---------------: | :--------------------: |
 | ... | ... | ... |
-##Selbstaktivität
+
+# Selbstaktivität
+### ...
 |     Selbstsändig   |      Benutzerfunktionen anbieten        |    Schnittstellenanforderungen erfüllen           |
 | :------------: | :---------------: | :--------------------: |
 | ... | ... | ... |
+
+# Ergänzungen
+### ...
