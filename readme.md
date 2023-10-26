@@ -26,4 +26,7 @@ Wenn pre-commit installiert ist, aber der Modul nicht gefunden werden kann:
 ## Aufgabe 4
 Erklären Sie hier, wie Sie das Passwort aus Ihrer lokalen `.env` auf Azure übertragen.
 
+### Website
+studer-diary.azurewebsites.net 
+
 ![image](https://github.com/Rosidvas/StuderRandonLB-324/assets/89085444/457d60df-0fd4-4048-a98b-bd8aca3b2316)
