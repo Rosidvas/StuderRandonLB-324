@@ -12,4 +12,12 @@ assignees: ''
 | ... | ... | ... |
 #
 ### diese neue Funktion wird sich auf das **betroffene Zielsystem** beziehen. 
-##Priorities
+##Priorität
+### 
+|     Muss    |       Soll        |          wird     |
+| :------------: | :---------------: | :--------------------: |
+| ... | ... | ... |
+##Selbstaktivität
+|     Selbstsändig   |      Benutzerfunktionen anbieten        |    Schnittstellenanforderungen erfüllen           |
+| :------------: | :---------------: | :--------------------: |
+| ... | ... | ... |
