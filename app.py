@@ -14,7 +14,8 @@ entries = []
 
 @dataclass
 class Entry():
-    content: str
+    happiness: str
+    content: str     
     timestamp: datetime = datetime.now()
 
 
@@ -45,9 +46,9 @@ def logout():
 
 @app.route('/add_entry', methods=['POST'])
 def add_entry():
-    content = request.form.get('content')
+    content = request.form.get('content')  ## Get the happiness level from the form
     if content:
-        entry = Entry(content=content)
+        entry = Entry(content=content, happiness='😃')
         entries.append(entry)
     return redirect(url_for('index'))
 
